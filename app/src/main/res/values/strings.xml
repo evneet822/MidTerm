@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">evneet_759831_MT</string>
+    <string-array name="car_names">
+        <item>Please choose a car</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Cadillac</item>
+        <item>Volks Wagon</item>
+        <item>Mercedes</item>
+        <item>Peugeot</item>
+        <item>Lamborghini</item>
+
+
+    </string-array>
+</resources>
